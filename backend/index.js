@@ -25,7 +25,3 @@ app.post("/authenticate", async(req,res) => {
 })
 
 app.listen(3001)
-
-
-// Project ID: 97004b8c-0424-4e3e-a3ca-42a9b0f517dc
-// Private key: e875a61e-c4f4-4eb0-9f72-a2c6764c3feb
